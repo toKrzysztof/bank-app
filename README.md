@@ -26,3 +26,6 @@ The app was developed as a mean to gain practical automated testing skills.
 3. Behaviour tests are located in /features directory
 4. The workflows executed on PR with Github Actions are located in ".github/workflows" directory
 
+# Tests showcase
+<img width="953" height="1836" alt="300296441-1e420364-0277-478e-bac9-d37e52b29061" src="https://github.com/user-attachments/assets/6aa634b7-5d03-420d-8d7a-dee968c889ac" />
+
